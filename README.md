@@ -2,7 +2,7 @@
 This repository implements end-to-end UI and API automation for (https://automationexercise.com) using Playwright with TypeScript. It follows Page Object Model architecture, environment-driven config, dynamic test data, and hybrid API-UI validation.
 
 *Setup*
-git clone (https://github.com/ahmedsameh-geidea/playwright-assessment.git)
+git clone (https://github.com/Asameh95/playwright-assessment)
 cd playwright-assessment
 npm install
 npx playwright install
