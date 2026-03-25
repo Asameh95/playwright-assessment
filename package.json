@@ -1,0 +1,16 @@
+{
+  "name": "geidea-playwright-assessment",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report",
+    "pretest": "rm -rf ./playwright-report"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.44.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0"
+  }
+}
